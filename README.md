@@ -1,4 +1,6 @@
 # website-flow
 quete git/github 4
-sur la pizza 1 seul fromage valide, mozzarella buffala ou mieux encore, fior di latte
-  
+cheese
+modification fichier readme depuis branch , le premier a été fait dans le principal
+--> seul fromage valide pour une pizza c'est la mozzarella, buffala ou mieux fior di latte
+
